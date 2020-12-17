@@ -1,2 +1,2 @@
-# iccs2021
+# ICCS2021
 Supplemantary repository for the ICCS2021 paper
